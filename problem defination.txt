@@ -1,0 +1,8 @@
+>. A multinational company named contoso is willing to host a 
+      website for all of their employees.
+>. This company have 12 offices all over the world.
+>. The company wants to build and host a website which can be used
+   by the employees to access Corporate Customers Accounting information.
+>. The company wants to deploy the website on public cloud   platform.
+>. The company has given two option for the deployment/hosting as
+   Google Cloud Platform or AWS. 

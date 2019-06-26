@@ -1,0 +1,34 @@
+Functional Requirements:
+
+1. Validation of employees.
+2. Access of information to employees.
+3. Show the accounting information about customers.
+4. Gather the information.
+
+
+Non-functional requirements:
+1. Security
+2. Performance
+3. Availability of information for all the employees
+4. Maintaining load on website  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
